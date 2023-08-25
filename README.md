@@ -1,2 +1,4 @@
 # Apna-College-Demo
-This is a practice demo project
+This is a practice demo project.
+<br>
+Author: Saumyadip Dutta
